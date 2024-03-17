@@ -1,0 +1,11 @@
+[package]
+name = "ml-kem-in-the-middle"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ml-kem = "0.1.0-alpha"
+rand = "0.8.5"
+
+[dev-dependencies]
+rand_chacha = "0.3.1"
